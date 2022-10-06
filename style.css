@@ -1,0 +1,25 @@
+body {
+    background-image: radial-gradient(circle, #ac721b 0%, #221c02 100%);
+}
+a[href] {
+    font-size: 50px;
+    color:rgb(44, 224, 20)
+}
+yellow {
+    font-style: italic;
+    color:rgb(255, 251, 0);
+    font-size: 20px;
+}
+name {
+    color:rgb(26, 22, 2);
+    font-size: 75px;
+}
+white {
+    font-size: 50px;
+    color:rgb(255, 251, 251)
+}
+lists {
+    font-size: 25px;
+    color:rgb(255, 251, 251)
+}
+
